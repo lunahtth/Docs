@@ -1,3 +1,7 @@
+<div class="wrap-content-home">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
 Welcome to MagestoreDocs!
 ===================
 
@@ -24,6 +28,6 @@ When you reach your target extension page, scroll down to view the whole guide. 
 
 You can download the whole guide of an extension. Simply click on button <kbd>Download Extension Guide</kbd> on the top right corner of the extension's page.
 
-
+</div></div></div></div>
 
 
